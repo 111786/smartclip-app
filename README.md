@@ -31,6 +31,7 @@ smartclip_lite/
 ├── main.py              # 主程序文件
 ├── requirements.txt     # Python依赖列表
 ├── buildozer.spec       # Android构建配置
+├── environment.yml      # Conda环境配置
 ├── .github/workflows/   # GitHub Actions配置
 │   └── android.yml      # APK构建工作流
 └── CLOUD_BUILD_INSTRUCTIONS.txt  # 云端构建说明
